@@ -33,10 +33,9 @@ SOFTWARE.
 """
 
 setup(name='python-etherscan-api',
-      version='0.0.1',
+      version='0.0.2',
       description='Python API for interacting with etherscan.io.',
       url='https://github.com/nkgilley/python-etherscan-api',
-      download_url='https://github.com/nkgilley/python-etherscan-api/archive/0.0.1.tar.gz',
       author='Nolan Gilley',
       author_email='nkgilley@gmail.com',
       license='MIT',
