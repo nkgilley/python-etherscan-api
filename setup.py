@@ -33,7 +33,7 @@ SOFTWARE.
 """
 
 setup(name='python-etherscan-api',
-      version='0.0.2',
+      version='0.0.3',
       description='Python API for interacting with etherscan.io.',
       url='https://github.com/nkgilley/python-etherscan-api',
       author='Nolan Gilley',
